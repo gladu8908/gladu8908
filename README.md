@@ -46,7 +46,8 @@ Vanity URL name
 <div>
 
 <img src="https://img.shields.io/badge/Google-Cybersecurity_Certification-blue?style=for-the-badge&logo=google&color=000000" alt="Google Cybersecurity Certification" />
-<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/" alt="Internshala Ethical Hacker Certification" />
+<img src="https://img.shields.io/badge/Internshala-Ethical_Hacker_Certification-blue?style=for-the-badge&logo=letter-i&color=000000" alt="Internshala Ethical Hacker Certification" />
+
 
 
 </div>
