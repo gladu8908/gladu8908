@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Gladwin Joy**, an Ethical Hacker intern, BCA Student , and Security Researcher. Researching in vulnerability assessment and ethical hacking. I Work as a cybersecurity intern at Uptoskills, by pentseting on the main website , and studying courses as well. My goal is to prepare and educate myself for a safer digital world.
+I'm **Gladwin Joy**, an Ethical Hacker intern, BCA Student , and Security Researcher. Researching in vulnerability assessment and ethical hacking. I Worked as a cybersecurity intern at Uptoskills, by pentseting on the main website , and studying courses as well. My goal is to prepare and educate myself for a safer digital world.
 
 <a href="www.linkedin.com/in/
 gladwin-joy-295790371
